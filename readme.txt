@@ -1,5 +1,10 @@
 Elad Shahar 
 Udacity data visualization project 
+Links 
+Link to the initial story 
+https://public.tableau.com/profile/elad.shahar#!/vizhome/UdacityTableauProjectEladShaharV1/Original Airlinesstory 
+Link to the updated story after feedback 
+https://public.tableau.com/profile/elad.shahar#!/vizhome/UdacityProjectTableauEladShaharV2/Airliness tory 
 
 Description of the variables in the Dataset
 
